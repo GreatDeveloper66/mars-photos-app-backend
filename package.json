@@ -1,5 +1,6 @@
 {
   "name": "mars-photos-app-backend",
+  "type": "module",
   "version": "1.0.0",
   "description": "Node.js backend using express for mars photos api project",
   "main": "index.js",
