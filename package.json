@@ -1,0 +1,25 @@
+{
+  "name": "mars-photos-app-backend",
+  "version": "1.0.0",
+  "description": "Node.js backend using express for mars photos api project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreatDeveloper66/mars-photos-app-backend.git"
+  },
+  "keywords": [
+    "mars",
+    "NASA",
+    "camera",
+    "rover"
+  ],
+  "author": "Adam Shaffer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreatDeveloper66/mars-photos-app-backend/issues"
+  },
+  "homepage": "https://github.com/GreatDeveloper66/mars-photos-app-backend#readme"
+}
