@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/GreatDeveloper66/mars-photos-app-backend/issues"
   },
-  "homepage": "https://github.com/GreatDeveloper66/mars-photos-app-backend#readme"
+  "homepage": "https://github.com/GreatDeveloper66/mars-photos-app-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
 }
