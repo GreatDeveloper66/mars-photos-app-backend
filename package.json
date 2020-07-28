@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/GreatDeveloper66/mars-photos-app-backend#readme",
   "dependencies": {
+    "babel-preset-env": "^1.7.0",
     "body-parser": "^1.19.0",
     "braces": "^3.0.2",
     "cors": "^2.8.5",
